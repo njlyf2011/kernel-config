@@ -1,4 +1,4 @@
-# Linux Configuration file Collection
+# Linux Configuration files Collection
 
 ## 项目简介
 
