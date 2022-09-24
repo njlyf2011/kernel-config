@@ -14,6 +14,8 @@
 
 带有 `-mini` 字样说明是经过了 `make allnoconfig` 命令生成的最小化内核，排除了所有可选项，并且不是 x86-64 内核（需要自行开启）。
 
+`-allyes` 表示是经过 `make allyesconfig` 命令生成的带所有可选项的内核配置，但是请注意，`make allyesconfig   `生成并编译出来的内核通常是**无法正确使用**的。 因此仅供参考。
+
 带有 `-luke` 的则表明这个是我自己配置的。
 
 来自一些 Linux 发行版的配置文件也已经在文件名里面标出，比如 `config-5.15.0-43-generic-ubuntu`。
