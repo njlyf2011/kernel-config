@@ -6,6 +6,16 @@
 
 其中有我自己配置的，也有一些是提取自一些比较知名的 Linux 发行版的。
 
+
+
+**从 2022 年 9 月 24 日开始，本项目将在内核版本的 deblob 文件夹中附带 Linux 内核专有代码清除脚本，来自 [FSFLA\]:: GNU Linux-libre project](http://www.fsfla.org/ikiwiki/selibre/linux-libre/)，依照其原有许可证（GPLv2）进行发布。**
+
+**请注意，清除专有代码后，编译出来的 Linux 内核在一般情况下将无法驱动目前市面上相当一部分的硬件，仅供 Free Software 爱好者和 Linux 内核研究者使用。**
+
+
+
+## 文件说明
+
 配置文件已经按照内核版本和来源而分类。
 
 其中，带有 `-gnu` 字样的配置文件，是适用于 [Linux Libre](https://en.wikipedia.org/wiki/Linux-libre) 的。
