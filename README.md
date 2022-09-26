@@ -8,9 +8,13 @@
 
 
 
-**从 2022 年 9 月 24 日开始，本项目将在内核版本的 deblob 文件夹中附带 Linux 内核专有代码清除脚本，来自 [FSFLA\]:: GNU Linux-libre project](http://www.fsfla.org/ikiwiki/selibre/linux-libre/)，依照其原有许可证（GPLv2）进行发布。**
+**从 2022 年 9 月 24 日开始，本项目将在内核版本的 deblob 文件夹中附带 Linux 内核专有代码清除脚本，来自 [FSFLA: GNU Linux-libre project](http://www.fsfla.org/ikiwiki/selibre/linux-libre/)，依照其原有许可证（GPLv2）进行发布。**
 
 **请注意，清除专有代码后，编译出来的 Linux 内核在一般情况下将无法驱动目前市面上相当一部分的硬件，仅供 Free Software 爱好者和 Linux 内核研究者使用。**
+
+
+
+国内分流：[kernel-config: Linux kernel configuration files collection. (gitee.com)](https://gitee.com/njlyf2011/kernel-config)
 
 
 
